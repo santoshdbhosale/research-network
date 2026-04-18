@@ -31,7 +31,7 @@ All widgets are interactive (hover, zoom, click, search) and assembled into a si
 1. Enter your **Google Scholar ID**
    - Find it in your profile URL: `scholar.google.com/citations?user=`**`XXXXXXXX`**
 2. **Upload your publication list** as a PDF
-   - Any CV or publication list format works — see the [example PDF](example/Santosh_Publications.pdf)
+   - Any CV or publication list format works — see the [example PDF](https://github.com/santoshdbhosale/research-network/blob/main/Santosh_Publications.pdf)
 3. Optionally paste your **career history** as CSV (role, org, country, start, end, pubs)
 4. Click **Generate** and wait ~60 seconds
 5. **Download your HTML** and host it anywhere
